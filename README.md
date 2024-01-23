@@ -6,4 +6,4 @@
 - First item
 `code`
 ---
-![image]("C:\Users\serra\Downloads\stevens-official-pmscolor-r.jpg")
+![alt text](image.jpg)
