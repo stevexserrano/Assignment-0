@@ -6,4 +6,4 @@
 - First item
 `code`
 ---
-![alt text](C:\Users\serra\Downloads\stevens-official-pmscolor-r.jpg)
+![alt text](stevens-official-pmscolor-r.jpg)
