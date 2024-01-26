@@ -1,7 +1,7 @@
 # Design 6
 **Steve**
 *Serrano*
-> blockquote
+> "Things won't go perfect. It's all about how you adapt from those things and learn from mistakes." - Michael Phelps
 1. First item
 - First item
 `code`
