@@ -21,7 +21,8 @@
 - Assigment 11
 ---
 # Code
- ``# Solve the quadratic equation ax**2 + bx + c = 0
+ ```
+# Solve the quadratic equation ax**2 + bx + c = 0
 
 # import complex math module
 import cmath
@@ -38,7 +39,7 @@ sol1 = (-b-cmath.sqrt(d))/(2*a)
 sol2 = (-b+cmath.sqrt(d))/(2*a)
 
 print('The solution are {0} and {1}'.format(sol1,sol2))
-`
+```
 ---
 [Link to Stevens Website](https://www.stevens.edu/)
 ---
