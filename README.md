@@ -2,25 +2,16 @@
 **Steve**
 *Serrano*
 > "Things won't go perfect. It's all about how you adapt from those things and learn from mistakes." - Michael Phelps
-
+# Hobbies of mine
+- Swimming
+- Video Games
+- Music
 # Course prerequisites/corequisites:
 1. ENGR 122
 2. EE 345
-# Assigments for this class
-- Assignmet 0
-- Assigment 1
-- Assigment 2
-- Assigment 3
-- Assigment 4
-- Assigment 5
-- Assigment 6
-- Assigment 7
-- Assigment 8
-- Assigment 9
-- Assigment 10
-- Assigment 11
+
 ---
-# Code
+# Basic Python Code
  ```
 # Solve the quadratic equation ax**2 + bx + c = 0
 
