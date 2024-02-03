@@ -2,12 +2,26 @@
 **Steve**
 *Serrano*
 > "Things won't go perfect. It's all about how you adapt from those things and learn from mistakes." - Michael Phelps
-1. Lab 1
-2. Lab 2
+
+# Course prerequisites/corequisites:
+1. ENGR 122
+2. EE 345
+# Assigments for this class
 - Assignmet 0
 - Assigment 1
-
-`# Solve the quadratic equation ax**2 + bx + c = 0
+- Assigment 2
+- Assigment 3
+- Assigment 4
+- Assigment 5
+- Assigment 6
+- Assigment 7
+- Assigment 8
+- Assigment 9
+- Assigment 10
+- Assigment 11
+---
+# Code
+ ``# Solve the quadratic equation ax**2 + bx + c = 0
 
 # import complex math module
 import cmath
@@ -27,6 +41,8 @@ print('The solution are {0} and {1}'.format(sol1,sol2))
 `
 ---
 [Link to Stevens Website](https://www.stevens.edu/)
-![image](https://github.com/stevexserrano/Design-6/assets/116859332/82a061c7-49f4-4a3a-9136-0d1b18c9d825)
+---
+![image](https://github.com/stevexserrano/Design-6/assets/116859332/e14afd6b-f217-4750-b778-3ada0a6229ed)
+
 
 
