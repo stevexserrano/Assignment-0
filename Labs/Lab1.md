@@ -10,3 +10,4 @@
 #### Flip-Flop
 <img width="923" alt="Screenshot 2024-03-24 184739" src="https://github.com/stevexserrano/Design-6/assets/116859332/70f044ff-57a2-475a-9b85-592137a75853">
 <img width="960" alt="Screenshot 2024-03-24 184723" src="https://github.com/stevexserrano/Design-6/assets/116859332/fe94c31d-be26-4f76-bdaa-05002edff1e1">
+---
