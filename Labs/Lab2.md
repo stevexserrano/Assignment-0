@@ -6,4 +6,4 @@
 <img width="960" alt="Screenshot 2024-03-24 191535" src="https://github.com/stevexserrano/Design-6/assets/116859332/7a87a072-ed45-4803-aac0-6676cea293cc">
 <img width="300" alt="Screenshot 2024-03-24 192232" src="https://github.com/stevexserrano/Design-6/assets/116859332/29c35dd8-0900-4ad6-b3dc-c70903639b71">
 <img width="630" alt="Screenshot 2024-03-24 192408" src="https://github.com/stevexserrano/Design-6/assets/116859332/b8f199ac-6879-42fe-a5d8-b045940381c8">
-<img width="571" alt="Screenshot 2024-03-24 192437" src="https://github.com/stevexserrano/Design-6/assets/116859332/a5ad28e3-1fca-4fff-a9f5-00650c28b652">
+<img width="571" alt="Screenshot 2024-03-24 192437" src="https://github.com/stevexserrano/Design-6/assets/116859332/251cf346-9456-4fe2-b3c3-ebdd7a3fa81e">
